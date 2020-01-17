@@ -1,6 +1,6 @@
 # dice_app
 
-A new Flutter application.
+A new Flutter application of Dice game where they change number every time user taps the dice.
 
 ## Getting Started
 
